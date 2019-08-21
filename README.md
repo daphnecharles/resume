@@ -1,2 +1,2 @@
-# resume
+# Resume
 Resume/CV for Daphne Charles
